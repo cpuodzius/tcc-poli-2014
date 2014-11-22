@@ -1,0 +1,15 @@
+[submodule "proxy"]
+	path = proxy
+	url = git@github.com:ghashi/proxy.git
+[submodule "client-gateway"]
+	path = client-gateway
+	url = git@github.com:ghashi/client-gateway.git
+[submodule "aaas"]
+	path = aaas
+	url = git@github.com:ghashi/aaas.git
+[submodule "tcc_site"]
+	path = tcc_site
+	url = git@github.com:ghashi/tcc_site.git
+[submodule "certificate"]
+	path = certificate
+	url = git@github.com:ghashi/certificate.git
